@@ -33,4 +33,40 @@ The system will manage users and store customer information using Laravel with a
 10) Step 10: Add Controller
 ![image](https://github.com/user-attachments/assets/1d3fb0fa-9611-4ef8-9601-16fcfc976a8e)
 
-11) Step 11: Add View Files of index, create, edit, show for products   
+11) Step 11: Add View Files of index, create, edit, show for products
+
+12) Step 12: Run the file by php artisan command
+
+13) Screenshots:
+Homepage:
+![image](https://github.com/user-attachments/assets/cfeec86d-7952-4646-969e-f921712445d6)
+
+Registration Page:
+![image](https://github.com/user-attachments/assets/491471b4-b8f7-44f5-92d5-8e118c69e1d7)
+
+Dashboard Page:
+![image](https://github.com/user-attachments/assets/95e53add-7f66-48f5-83a0-8d7d2161388f)
+
+Manage Role Page (only for admin)
+![image](https://github.com/user-attachments/assets/55bfc744-245c-40bf-a171-dbd87123809d)
+
+Not access by user login
+![image](https://github.com/user-attachments/assets/c41bf015-187a-44d5-8ad3-1e81de0d9c8a)
+
+
+Manage Store 
+![image](https://github.com/user-attachments/assets/77207ef5-825e-48ac-8396-6da58abea1d0)
+
+Create Store
+![image](https://github.com/user-attachments/assets/7e6941c2-7bf6-4387-8417-fe9b58c9c2e0)
+
+View Store Details
+![image](https://github.com/user-attachments/assets/015bf97c-686c-413f-8774-d2224bdbb730)
+
+Edit Store
+![image](https://github.com/user-attachments/assets/e960fb16-a2b9-4521-8795-7c60bf3d5543)
+
+
+
+
+
