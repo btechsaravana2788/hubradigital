@@ -2,7 +2,18 @@
 The candidate will develop a system with two main modules: User Module and Store Module. 
 The system will manage users and store customer information using Laravel with authentication, authorization, controllers, and repository pattern:
 
+How to Run this file
+====================
+
+Step 1: Open command prompt add this command git clone https://github.com/btechsaravana2788/hubradigital.git
+Step 2: Edit .env file and update your database credentials
+Step 3: Run the command composer install
+Step 4: Run tha command npm install && npm run dev
+Step 5: Run tha command php artisan migrate to import the database
+Step 6: Run the command php artisan serve
+
 === Solutions ===
+
 1) Step 1: Install Laravel
    ![image](https://github.com/user-attachments/assets/a99fa5d4-877c-4923-a649-374526e75ed8)
 
